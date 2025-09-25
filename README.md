@@ -43,6 +43,6 @@ Ejecuta el juego:
 
 🕹️ Controles
 
-⬅️ ➡️ ⬆️ ⬇️ para mover la serpiente
+⬅️ ➡️ ⬆️ ⬇️ para mover al mapache
 
 Barra espaciadora (SPACE) para salir del juego
